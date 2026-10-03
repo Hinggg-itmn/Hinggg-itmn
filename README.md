@@ -24,5 +24,5 @@ See the pinned repositories above.
 
 ## Contact
 
-- Email: [your-email]
-- LinkedIn: [your-linkedin-url]
+- Email: phihunglt2@gmail.
+- LinkedIn: https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-bb6674357/?isSelfProfile=true
