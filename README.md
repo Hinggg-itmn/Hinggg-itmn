@@ -11,8 +11,10 @@ Aiming for systems and backend engineering, with a focus on Rust and data engine
 
 ## Currently
 
-- Building: [one-line description of your main project, link to the repo]
-- Learning: Rust, data structures and algorithms
+- Building: [rust-cli](https://github.com/Hinggg-itmn/rust-cli), a command-line tool written in Rust
+- Building: [web3demo](https://github.com/Hinggg-itmn/web3demo), a web3 demo project
+- Learning: Rust (ownership, lifetimes, traits), data structures and algorithms via NeetCode 150
+- Next: a graduation project, a real-time fraud detection API in Rust using ONNX Runtime
 
 ## Stack
 
@@ -24,5 +26,5 @@ See the pinned repositories above.
 
 ## Contact
 
-- Email: phihunglt2@gmail.
+- Email: phihunglt2@gmail
 - LinkedIn: https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-bb6674357/?isSelfProfile=true
